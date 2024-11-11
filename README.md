@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 
 - 💻 I’m a computer engineering graduate passionate about software development.
 - 🌱 I’m currently working on [ConnectMe](project link).
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](your-linkedin-url)
+- 📫 How to reach me: [Email](mailto:jatinlakhorkar@example.com) | [LinkedIn](https://www.linkedin.com/in/jatin-lakhorkar/)
 
 ### 🔧 Languages & Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
