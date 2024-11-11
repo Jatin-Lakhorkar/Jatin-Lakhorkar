@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Jatin-Lakhorkar/Jatin-Lakhorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋 I'm Jatin
+
+- 💻 I’m a computer engineering graduate passionate about software development.
+- 🌱 I’m currently working on [ConnectMe](project link).
+- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](your-linkedin-url)
+
+### 🔧 Languages & Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
