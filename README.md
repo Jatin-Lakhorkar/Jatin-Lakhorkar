@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jatin Lakhorkar</h1>
-<h3 align="center">- 💻 I’m a computer engineering graduate passionate about software development.</h3>
+<h1 align="center">Hey there! 👋 I'm Jatin Lakhorkar – glad you dropped by!</h1>
+<h3 align="center">Welcome to my GitHub corner, where the bugs are squashed, and the ideas take flight! 🚀</h3>
+
+- 💻 Computer engineering grad with a knack for turning caffeine into code!
+- 🎨 When I'm not coding, I'm dreaming up new ways to make software that’s sleek, smart, and (hopefully) bug-free!
+
+So, kick back, explore, and feel free to star a repo or two! 🌟
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-lakhorkar" alt="jatin-lakhorkar" /></a> </p>
 
