@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m a computer engineering graduate passionate about software development.
 - 🌱 I’m currently working on [ConnectMe](project link).
-- 📫 How to reach me: (https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+- 📫 How to reach me: [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ### 🔧 Languages & Tools:
