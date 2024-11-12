@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Jatin
 
 - 💻 I’m a computer engineering graduate passionate about software development.
-- 🌱 I’m currently working on [ConnectMe](project link).
-- 📫 How to reach me: [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+- 🌱 I’m currently working on [ConnectMe]
+- 📫 How to reach me: [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
 
 
 ### 🔧 Languages & Tools:
