@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 - 🎨 When I'm not coding, I'm dreaming up new ways to make software that’s sleek, smart, and (hopefully) bug-free!
 
 So, kick back, explore, and feel free to star a repo or two! 🌟
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-lakhorkar" alt="jatin-lakhorkar" /></a> </p>
-
 - 💬 Ask me about **react, html5, css3 ,js ,sql.**
 
 - 📫 How to reach me **jatinlakhorkar@gmail.com**
