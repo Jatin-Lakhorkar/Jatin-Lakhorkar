@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Jatin Lakhorkar</h1>
 <h3 align="center">Computer Engineering Graduate | Web Developer | Tech Enthusiast 🚀</h3>
 
